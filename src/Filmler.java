@@ -13,6 +13,7 @@ public class Filmler {
     }
 
     public void setProgramAdi(String programAdi) {
+        // to do
         this.programAdi = programAdi;
     }
 
